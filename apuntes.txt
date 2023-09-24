@@ -1,0 +1,13 @@
+Super Usuario:
+nombre: alvaro
+clave: nada1234
+
+- crear formularios con django, 1:42 hrs. video PlayGr intermedio III
+
+- pendiente,
+    a) eliminar conflicto con models. y form. (fechas y booleanos, estan comentados)
+    b) cambiar los link de las imagenes de fondo
+    c) insertar imagenes en models. y form. de los productos (telescopios, monturas, etc)
+
+    
+
