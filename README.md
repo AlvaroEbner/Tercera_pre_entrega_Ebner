@@ -6,4 +6,4 @@
 4. Cada html (usuarios, galería de imágenes, Tour Astronómico, cámaras, trípodes, telescopio, monturas y binoculares) cuenta con un boton que envía a un html con un formulario para crear éste elemento.
 5. al ir a : http://127.0.0.1:8000/AppCoder/usuarios/  o pinchar "usuarios" se despliegan las características de un CRUD de una base de datos: Se visualizan los usuarios, abajo hay un botón para crear usuario, el que envía a un formulario. También hay un botón para buscar usuarios, el que envía a un formulario de búsqueda. Por último, cada usuario contiene un botón para eliminar.
 6. El proyecto tiene una aplicación AppCoder, el que contiene los archivos específicos.
-7. al modificar los modelos se debe migrar.
+7. Al modificar los modelos se debe migrar.
